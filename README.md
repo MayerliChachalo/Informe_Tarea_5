@@ -12,9 +12,9 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-###CAPITUULO 9
+### CAPITUULO 9
 
-###CAPITULO 10
+### CAPITULO 10
 
 ## 4. VIDEO 
 
