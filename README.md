@@ -76,6 +76,7 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 </p>
 
 10-8 Corriente y voltaje en el capacitor 
+
 43. El voltaje en el capacitor de la figura 10-42(a) se muestra en (b). Dibuje la corriente ic a escala con valores numérico. 
 
 <p align="center">
@@ -109,6 +110,7 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 </p>
 
 10-9 Energía almacenada por un capacitor 
+
 47. Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes tiempos: t = 0, 1, 4, 5, 7 y 9 ms. 
 
 <p align="center">
@@ -133,8 +135,7 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 49. Para cada caso mostrado en la figura 10-44, ¿cuál es la falla más probable?
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84594486/126195783-4b341d46-b7c7-4d15-8f62-529f301146e7.png)
- ">
+  <img src="https://user-images.githubusercontent.com/84594486/126195783-4b341d46-b7c7-4d15-8f62-529f301146e7.png">
 </p>
 
 <p align="center">
