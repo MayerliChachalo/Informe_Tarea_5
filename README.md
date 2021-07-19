@@ -62,7 +62,7 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 </p>
 
 <p align="center">
-  <img src="(https://user-images.githubusercontent.com/84594486/126194288-d220e3de-b2f4-4416-b2e8-7d18179e0ed9.png">
+  <img src="https://user-images.githubusercontent.com/84594486/126194288-d220e3de-b2f4-4416-b2e8-7d18179e0ed9.png">
 </p>
 
 42. Una fuente de cd se conecta a las terminales a-b de la figura 10-35. Si Cx es 12 µF y el voltaje en el capacitor de 40 µF es de 80 V, 
@@ -132,6 +132,7 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 </p>
 
 10-10 Fallas en el capacitor y solución de problemas
+
 49. Para cada caso mostrado en la figura 10-44, ¿cuál es la falla más probable?
 
 <p align="center">
