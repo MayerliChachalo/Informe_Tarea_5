@@ -10,6 +10,11 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 
 ## 2. MARCO TEÓRICO 
 
+CAPITULO 10 
+
+![image](https://user-images.githubusercontent.com/84789076/126404978-169766a4-1774-46d1-be40-ebe7add43d0d.png)
+
+
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ### CAPITULO 9
