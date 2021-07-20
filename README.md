@@ -24,6 +24,74 @@ CAPITULO 10
 
 ### CAPITULO 10
 
+**10-3 Campos eléctricos**
+
+13. 	a. ¿Cuál es la intensidad del campo eléctrico E a una distancia de 1 cm de una carga de 100 mC en aceite?
+
+b. ¿Cuál es E al doble de la distancia?
+
+![image](https://user-images.githubusercontent.com/75383758/126406031-a5481211-d334-43a3-a2c0-1f621da52e62.png)
+
+14. Suponga que se aplican 150 V a un capacitor de placas paralelas de 100 pF cuyas placas  están separadas por 1 mm. ¿Cuál es la intensidad del campo eléctrico E entre las placas?
+
+![image](https://user-images.githubusercontent.com/75383758/126406063-f14ece7b-9dfe-40c5-a44d-7b1fb11eddbf.png)
+
+**10-4 Dieléctricos**
+
+15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
+
+![image](https://user-images.githubusercontent.com/75383758/126406089-41f16cbc-cb05-4810-ae65-a9ea35982de4.png)
+
+16. Repita el problema 15 si el dieléctrico es de mica y las placas están espaciadas a 2 milésimas de pulgada.
+
+![image](https://user-images.githubusercontent.com/75383758/126406129-23121dc3-ca42-4ff4-8cd4-3e78dd795bdd.png)
+
+17. Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio entre las placas se duplica. Si la ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
+
+![image](https://user-images.githubusercontent.com/75383758/126406155-6c148e42-053e-48a8-8873-53111ccc921f.png)
+
+18. Determine a qué voltaje un capacitor de 200 nF con dieléctrico de mylar con un área de placa de 0.625 m^2 sufrirá una ruptura. 
+
+
+
+19. La ﬁgura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un par de puntos aﬁlados. Todos los espaciamientos miden lo mismo. Conforme el voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?
+
+![image](https://user-images.githubusercontent.com/75383758/126406183-7b3f8dd1-a714-4517-9237-a036d77afa43.png)
+
+      a.	Puntos.
+
+      b.	Esferas.
+
+      c.	Puntos.
+
+20. Si se continúa aumentando el voltaje de la fuente de la ﬁgura 10-32 (a), (b) y (c) después de la ruptura del espaciamiento, ¿también habrá ruptura en el segundo de ellos? Justiﬁque su respuesta.
+
+         Si continuamos aumentando el voltaje después que haya existido ruptura en el espaciamiento de cada uno de los circuitos, no existiría una ruptura en los siguientes  espaciamientos ya que la fuente de voltaje sólo aumentará hasta romper uno de los espaciamientos además de que la resistencia tiene una alta resistencia para limitar la corriente después de la ruptura.
+         
+10-5 Efectos no ideales
+
+21. Un capacitor de 25 µF tiene un coeficiente de temperatura negativo de 175 ppm/°C. ¿Por cuánto y en qué dirección podrá variar si la temperatura aumenta a 50°C? ¿Cuál será el nuevo valor?
+
+22. Si un capacitor de 4.7  cambia a 4.8 µF cuando la temperatura aumenta a 40°C, ¿Cuál es el coeficiente de temperatura?
+
+**10-7 Capacitores en paralelo y en serie**
+
+23. ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 µF conectados en paralelo?
+
+![image](https://user-images.githubusercontent.com/75383758/126406278-9d56e35c-09f2-416b-bbf2-66771efe986d.png)
+
+24. ¿Cuál es la capacitancia equivalente de 0.10 µF, 200 nF y 4.7 * 10^(-7)F conectados en paralelo?
+
+![image](https://user-images.githubusercontent.com/75383758/126406295-1c9ffec1-6523-4af4-8660-8671e4649ecd.png)
+
+25. Repita el problema 23 si los capacitores están conectados en serie.
+
+![image](https://user-images.githubusercontent.com/75383758/126406316-ed62c3be-a233-42e0-a4a6-382cdd3ae778.png)
+
+26. Repita el problema 24 si los capacitores están conectados en serie.
+
+![image](https://user-images.githubusercontent.com/75383758/126406334-ab1a99fb-150e-4403-92ac-448e91b717f7.png)
+
 27. Determine CT para cada uno de los circuitos de la figura 10-33.
 
 ![image](https://user-images.githubusercontent.com/84789076/126396516-4fecadbe-1dc5-4763-b314-8d480083d76e.png)
