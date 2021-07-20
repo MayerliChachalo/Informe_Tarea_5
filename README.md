@@ -21,10 +21,11 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 
 27. Determine CT para cada uno de los circuitos de la figura 10-33.
 
-![image](https://user-images.githubusercontent.com/84789076/126366433-bcd1b71f-9959-4e02-bba1-a5608163ecc0.png)
+![image](https://user-images.githubusercontent.com/84789076/126396516-4fecadbe-1dc5-4763-b314-8d480083d76e.png)
 
-![image](https://user-images.githubusercontent.com/84789076/126366475-cd80d5db-7fbc-40d4-a7e9-0e3727c82e43.png)
+![image](https://user-images.githubusercontent.com/84789076/126396627-ddf8c340-482f-4b52-b5f8-5339fa2379c2.png)
 
+![image](https://user-images.githubusercontent.com/84789076/126396643-37a07aad-6b63-4708-832d-e9c491a07dbd.png)
 
 28. Determine la capacitancia total teniendo en cuenta las terminales para cada circuito de la figura 10-34
 
@@ -46,7 +47,9 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 
 ![image](https://user-images.githubusercontent.com/84789076/126366772-fd3d076c-3c26-4df7-ba39-cb3314b074bd.png)
 
-![image](https://user-images.githubusercontent.com/84789076/126366796-1b888c62-9bd0-4204-a97d-ab2454ebea37.png)
+![image](https://user-images.githubusercontent.com/84789076/126396729-60ec6d18-db00-4d88-8c92-38a3ebf354eb.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126396755-284bf50b-5af8-4dc4-888e-90ffc0b7db87.png)
 
 32. Para la figura 10-37, determine CT
 
