@@ -26,7 +26,7 @@ CAPITULO 10
 
 **10-3 Campos eléctricos**
 
-13. 	a. ¿Cuál es la intensidad del campo eléctrico E a una distancia de 1 cm de una carga de 100 mC en aceite?
+13. a. ¿Cuál es la intensidad del campo eléctrico E a una distancia de 1 cm de una carga de 100 mC en aceite?
 
 b. ¿Cuál es E al doble de la distancia?
 
