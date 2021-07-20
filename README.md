@@ -19,11 +19,63 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 
 ### CAPITULO 10
 
+27. Determine CT para cada uno de los circuitos de la figura 10-33.
+
+![image](https://user-images.githubusercontent.com/84789076/126366433-bcd1b71f-9959-4e02-bba1-a5608163ecc0.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126366475-cd80d5db-7fbc-40d4-a7e9-0e3727c82e43.png)
 
 
+28. Determine la capacitancia total teniendo en cuenta las terminales para cada circuito de la figura 10-34
+
+![image](https://user-images.githubusercontent.com/84789076/126366521-ddd7684f-585b-4c19-86bd-74d63150ecef.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126366557-a3596a0e-05ba-42d5-a17e-5f145abd30af.png)
+
+29. Un capacitor de 30 F se conecta en paralelo con un capacitor de 60 F, y otro de 10 F se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de CT?
+
+![image](https://user-images.githubusercontent.com/84789076/126366630-e16800ff-8022-4cb1-b5de-6112c4ba7182.png)
+
+30. Para la figura 10-35, determine Cx.
+
+![image](https://user-images.githubusercontent.com/84789076/126366671-638f9288-6c81-40fe-817a-fef86a44ebae.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126366708-7d70b01e-b10a-411d-ab0d-efdcef9e7730.png)
+
+31. Para la figura 10-36, determine C3 y C4.
+
+![image](https://user-images.githubusercontent.com/84789076/126366772-fd3d076c-3c26-4df7-ba39-cb3314b074bd.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126366796-1b888c62-9bd0-4204-a97d-ab2454ebea37.png)
+
+32. Para la figura 10-37, determine CT
+
+![image](https://user-images.githubusercontent.com/84789076/126366827-2a4259c8-607b-4206-bcfd-b5f6e34ab671.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126366854-09609eb0-28e4-4237-a08b-adb4bece7959.png)
+
+33. Se tienen capacitores de 22, 47, 2.2 y 10 uF. ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándolos de la manera que usted prefiera?, ¿y la más pequeña?
+
+![image](https://user-images.githubusercontent.com/84789076/126366920-9f2b24ed-a790-43a0-ae80-ec921de7e4ac.png)
+
+34. Un capacitor de 10 uF y otro de 4.7 uF se conectan en paralelo. Después de que un tercer capacitor se agrega al circuito CT = 2.695 uF. ¿Cuál es el valor del tercer capacitor? ¿Cómo están conectados?
+
+![image](https://user-images.githubusercontent.com/84789076/126366971-c98592bc-f009-4f0b-9e6a-170a7c53d198.png)
+
+35. Considere capacitores de 1, 1.5 y 10 uF. Si CT = 10-6 uF, ¿cómo están conectados los capacitores?
+
+![image](https://user-images.githubusercontent.com/84789076/126367027-2fac41a4-ed12-4d5d-9bd1-2e2b4e61653e.png)
+
+36. Para los capacitores del problema 35, si CT = 2.304 uF, ¿cómo están conectados los capacitores?
+
+![image](https://user-images.githubusercontent.com/84789076/126367113-1d0eac4c-f824-46ee-8310-580ec9e43468.png)
 
 
+37. Para las figuras 10-33 (c) y (d), encuentre el voltaje en cada capacitor si se aplican 100 V en las terminales a-b
 
+![image](https://user-images.githubusercontent.com/84789076/126367142-0f97ca09-5e14-409e-97b5-7d43c2b24bae.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126367162-5800b195-b0c7-4b62-b21b-0b8860830cba.png)
 
 38. Utilice la regla de divisor de voltaje para encontrar el voltaje en cada capacitor de la figura 10-38. 
 
