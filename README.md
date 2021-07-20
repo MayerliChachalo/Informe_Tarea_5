@@ -68,7 +68,7 @@ b. ¿Cuál es E al doble de la distancia?
 
          Si continuamos aumentando el voltaje después que haya existido ruptura en el espaciamiento de cada uno de los circuitos, no existiría una ruptura en los siguientes  espaciamientos ya que la fuente de voltaje sólo aumentará hasta romper uno de los espaciamientos además de que la resistencia tiene una alta resistencia para limitar la corriente después de la ruptura.
          
-10-5 Efectos no ideales
+**10-5 Efectos no ideales**
 
 21. Un capacitor de 25 µF tiene un coeficiente de temperatura negativo de 175 ppm/°C. ¿Por cuánto y en qué dirección podrá variar si la temperatura aumenta a 50°C? ¿Cuál será el nuevo valor?
 
