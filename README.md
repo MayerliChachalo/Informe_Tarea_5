@@ -10,6 +10,9 @@ Analizar las redes resistivas o capacitivas complejas en combinación de conexio
 
 **Objetivos específicos**
 
+
+Analizar la distribucion serie-paralelo de capacitores en un circuito.
+
 ## 2. MARCO TEÓRICO 
 
 
