@@ -38,10 +38,6 @@ CAPITULO 10
 
 ![image](https://user-images.githubusercontent.com/84789076/126413082-530e534b-d36d-4d28-9898-f990ef820225.png)
 
-2.	Use la superposición para determinar la caída de voltaje en cada uno de los resistores del circuito de la figura 9-76.
-
-![image](https://user-images.githubusercontent.com/84789076/126413190-e8e4b709-d082-4b35-885d-6fdd8d3b269a.png)
-
 3.	Use la superposición para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77.
 
 ![image](https://user-images.githubusercontent.com/84789076/126413246-789088c8-83b8-43ff-affb-5878b52875b9.png)
@@ -52,10 +48,6 @@ CAPITULO 10
 
 ![image](https://user-images.githubusercontent.com/84789076/126413428-0d7be96c-c50b-4d92-9c92-d48614728156.png)
 
-4.	Use la superposición para encontrar la corriente a través del resistor de 480Ω en el circuito de la figura 9-78.
-
-![image](https://user-images.githubusercontent.com/84789076/126413455-a23f463e-7d65-427f-b251-1f12bb1f1df3.png)
-
 5.	 En el circuito de la figura 9-79, ¿cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea IL=5 mA, tal y como se muestra? Verifique los resultados mediante la superposición.
 
 ![image](https://user-images.githubusercontent.com/84789076/126413522-a0072368-88ff-485b-8a3d-e25a66ae9d77.png)
@@ -64,25 +56,13 @@ CAPITULO 10
 
 ![image](https://user-images.githubusercontent.com/84789076/126413577-18fde152-f48c-4f61-89fa-a92ee34b97f9.png)
 
-6.	Si el resistor de carga en el circuito de la figura 9-80 disipa 120 W, determine el valor de la fuente de voltaje desconocida. Verifique los resultados mediante la superposición.
-
-![image](https://user-images.githubusercontent.com/84789076/126413616-666dce86-5b2a-4574-aef3-4c35883bef47.png)
-
 7.	Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.
 
 ![image](https://user-images.githubusercontent.com/84789076/126413736-e17fd167-790d-4460-ac4b-b5bd7a705ced.png)
 
-8.	Repita el problema 7 para el circuito de la figura 9-82.
-
-![image](https://user-images.githubusercontent.com/84789076/126413762-9a6bc9dd-2073-46e8-aaec-9ebb1268fb12.png)
-
 9.	Repita el problema 7 para el circuito de la figura 9-83.
 
 ![image](https://user-images.githubusercontent.com/84789076/126413887-a603ef2b-c5f0-4994-9c2f-13594f8afe29.png)
-
-10.	Repita el problema 7 para el circuito de la figura 9-84.
-
-![image](https://user-images.githubusercontent.com/84789076/126413930-2d54f96f-5008-4d29-aa93-fa5b23ba792b.png)
 
 11.	Vea el circuito de la figura 9-85:
 
@@ -91,12 +71,6 @@ a.	Encuentre el circuito equivalente de Thévenin externo a RL.
 b.	Use el circuito equivalente para determinar Vab cuando RL=20Ω  y cuando RL=50Ω.
 
 ![image](https://user-images.githubusercontent.com/84789076/126414006-b8b7f378-795d-41fb-bc75-c919d2ad6831.png)
-
-12.	Vea el circuito de la figura 9-86:
-
-a.	Encuentre el circuito equivalente de Thévenin externo a RL.
-
-b.	Use el circuito equivalente para determinar Vab cuando RL=10 kΩ y cuando RL=20 kΩ.
 
 ![image](https://user-images.githubusercontent.com/84789076/126414096-3aee90df-123d-4a64-987d-b7fcf76b789b.png)
 
@@ -107,26 +81,6 @@ a.	Encuentre el circuito equivalente de Thévenin externo a las terminales indic
 b.	Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas indicadas.
 
 ![image](https://user-images.githubusercontent.com/84789076/126414201-c7590b94-ec9a-40f1-9936-60f300eb72ce.png)
-
-14.	Vea el circuito de la figura 9-88:
-
-![image](https://user-images.githubusercontent.com/84789076/126414234-d16e0aff-9026-4e75-aaf4-6e5b4956a662.png)
-
-![image](https://user-images.githubusercontent.com/84789076/126414272-90ef2c61-858a-4fb6-8657-162a4515b5da.png)
-
-![image](https://user-images.githubusercontent.com/84789076/126414307-24dbb3e3-4a91-4716-b81f-68926f4e9fbf.png)
-
-![image](https://user-images.githubusercontent.com/84789076/126414349-0c502225-ad3f-4d50-abf1-d9696b7815f6.png)
-
-![image](https://user-images.githubusercontent.com/84789076/126414417-b65a1a41-9bd0-416a-974c-e893550e6764.png)
-
-![image](https://user-images.githubusercontent.com/84789076/126414482-69e0d693-3a07-43d6-861e-ae358e520cfe.png)
-
-![image](https://user-images.githubusercontent.com/84789076/126414556-c21f8208-a6b7-43c4-9166-5c2cf7031633.png)
-
-![image](https://user-images.githubusercontent.com/84789076/126414596-00203d25-1ddc-4163-b383-5e6abbe59916.png)
-
-![image](https://user-images.githubusercontent.com/84789076/126414632-6fbabef8-8ff2-4f11-9c22-4be68e875ac6.png)
 
 15.	Vea el circuito de la figura 9-89:
 
@@ -143,10 +97,6 @@ b.	Use el circuito equivalente de Thévenin para determinar la corriente a trav�
 ![image](https://user-images.githubusercontent.com/75383758/126417433-f85f3080-f093-492c-ad2a-b6c89e5a439b.png)
 
 ![image](https://user-images.githubusercontent.com/75383758/126417451-5141c08f-869d-40bb-8400-cd63839c3460.png)
-
-16.	Vea el circuito de la figura 9-90:
-
-![image](https://user-images.githubusercontent.com/75383758/126417466-3b2ac970-ef37-4cfd-9b24-8d14770b5cec.png)
 
 a.	Encuentre el circuito equivalente de Thévenin externo a las terminales indicadas.
 
@@ -174,44 +124,6 @@ b.	Use el circuito equivalente de Thévenin para encontrar la corriente I cuando
 
 ![image](https://user-images.githubusercontent.com/75383758/126417679-76d5ee1b-2108-462e-90c5-e138a6e64dc0.png)
 
-18.	Vea el circuito de la figura 9-92:
-
-![image](https://user-images.githubusercontent.com/75383758/126417695-0a370e82-d218-4638-9f4f-0f80b66fc1ea.png)
-
-   Redibujando el circuito:
-   
-![image](https://user-images.githubusercontent.com/75383758/126417727-18033849-6eb3-44f1-8e7a-2c877c8379d9.png)
-
-a.	Encuentre el circuito equivalente de Thévenin externo a RL.
-
-![image](https://user-images.githubusercontent.com/75383758/126417733-25c3605b-9f60-4b6f-b008-e564acd7b791.png)
-
-   Redibujando el circuito:
-   
-![image](https://user-images.githubusercontent.com/75383758/126417754-61839ed4-5c02-4f17-bcac-98b7278a4f43.png)
-
-![image](https://user-images.githubusercontent.com/75383758/126417774-3929fd45-9856-4731-87f5-2e892cc77ca8.png)
-
-   Con el circuito:
-   
-![image](https://user-images.githubusercontent.com/75383758/126417815-2741d9e8-bae4-47db-82f5-8291c28b3358.png)
-
-![image](https://user-images.githubusercontent.com/75383758/126417821-de7acf7d-5760-4ce2-baa7-90c031add24f.png)
-
-![image](https://user-images.githubusercontent.com/75383758/126417840-6d572eeb-6908-4b59-880a-f1619f623a7a.png)
-
-![image](https://user-images.githubusercontent.com/75383758/126417858-a48c09ba-8f3b-4a18-8ba8-52eedc2dfaac.png)
-
-   Simplificando el circuito:
-   
-![image](https://user-images.githubusercontent.com/75383758/126417882-c5d1420a-6762-44de-987a-a08d33665832.png)
-
-b.	Utilice el circuito equivalente de Thévenin para encontrar la potencia disipada por RL.
-
-![image](https://user-images.githubusercontent.com/75383758/126417891-09c9461b-59c7-4683-9675-f5be18ccd107.png)
-
-![image](https://user-images.githubusercontent.com/75383758/126417900-025773bd-d73c-459d-b53e-5f3907bba8b3.png)
-
 19.	Repita el problema 17 para el circuito de la figura 9-93.
 
 ![image](https://user-images.githubusercontent.com/75383758/126417985-badc1d87-7d54-4d64-9995-d004d0800fe7.png)
@@ -223,26 +135,6 @@ b.	Utilice el circuito equivalente de Thévenin para encontrar la potencia disip
 ![image](https://user-images.githubusercontent.com/75383758/126418044-79bb0bed-109b-4496-a840-9afc79999a9f.png)
 
 ![image](https://user-images.githubusercontent.com/75383758/126418057-4f6ab8f7-8365-469b-aff8-2f05c9745f19.png)
-
-20.	Repita el problema 17 para el circuito de la figura 9-94.
-
-![image](https://user-images.githubusercontent.com/75383758/126418070-0986da59-e874-4481-a0cf-a23a40aa0275.png)
-
-   Redibujando el circuito:
-   
-![image](https://user-images.githubusercontent.com/75383758/126418099-cd6f406a-8657-44e8-bac6-27e1b96c9131.png)
-
-![image](https://user-images.githubusercontent.com/75383758/126418123-73e6e07e-0d68-4ace-9b40-00c43a800a0d.png)
-
-   Redibujando el circuito:
-   
-![image](https://user-images.githubusercontent.com/75383758/126418150-0cbb095e-e4a4-4cc8-89e7-b0f301db4d21.png)
-
-   Redibujando el circuito:
-   
-![image](https://user-images.githubusercontent.com/75383758/126418180-62d4d5be-6aa2-4881-bcf0-488c8e364e7f.png)
-
-![image](https://user-images.githubusercontent.com/75383758/126418200-8fbe9a9f-1091-498d-b26d-ed9aaed95059.png)
 
 21.	Encuentre el circuito equivalente de Thévenin de la red externa a las ramas que se indican, como se muestra en la figura 9-95.
 
@@ -258,26 +150,6 @@ b.	Utilice el circuito equivalente de Thévenin para encontrar la potencia disip
  
 ![image](https://user-images.githubusercontent.com/75383758/126418304-9f4ad720-4d29-4ef3-8544-43cfb7fe4e77.png)
 
-22.	Vea el circuito de la figura 9-96:
-
-![image](https://user-images.githubusercontent.com/75383758/126418316-48f8be5c-2e7f-4cd8-95d7-2c3374f42692.png)
-
-a.	Encuentre el circuito equivalente de Thévenin para las terminales que se indican.
-
-b.	Use el circuito equivalente Thévenin para determinar la corriente a través de las ramas que se indican.
-
-![image](https://user-images.githubusercontent.com/75383758/126418397-0391f134-305a-4c08-9d32-b2432160ceee.png)
-
-   Para:
-   
-![image](https://user-images.githubusercontent.com/75383758/126418426-c183ad40-dfd6-4e87-bcdf-1c95856ede3e.png)
-
-   Redibujando el circuito:
-   
-![image](https://user-images.githubusercontent.com/75383758/126418463-a1ce0de9-1fe6-475c-adfd-ca3496272fea.png)
-
-![image](https://user-images.githubusercontent.com/75383758/126418472-70b3ee7b-5c32-4d87-b30b-dd270587b9e0.png)
-
 23.	Repita el problema 22 para el circuito de la figura 9-97.
 
 ![image](https://user-images.githubusercontent.com/75383758/126418481-a1616283-266f-481d-bb31-84364aca5761.png)
@@ -291,20 +163,6 @@ b.	Use el circuito equivalente Thévenin para determinar la corriente a través 
 ![image](https://user-images.githubusercontent.com/75383758/126418519-7e1d0d1a-10f5-4578-8b9f-9fb1e9006e10.png)
 
 ![image](https://user-images.githubusercontent.com/75383758/126418534-2b43a14f-8c75-4c26-b1b3-b25e3da2b001.png)
-
-24.	Repita el problema 22 para el circuito de la figura 9-98.
-
-![image](https://user-images.githubusercontent.com/75383758/126418549-75ec9a5c-923b-4919-8d84-ede0e1f15344.png)
-
-   Redibujando el circuito:
-   
-![image](https://user-images.githubusercontent.com/75383758/126418580-0f2b9ac2-e4a5-4c28-b607-e44b5657b851.png)
-
-   Modificando el circuito:
-   
-![image](https://user-images.githubusercontent.com/75383758/126418602-60b3ab95-5fa5-4255-82c6-8d0c77fef94b.png)
-
-![image](https://user-images.githubusercontent.com/75383758/126418608-3a4f96b8-bc32-4503-9477-9458f17757bb.png)
 
 25.	Encuentre el circuito equivalente de Norton externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar IL para el circuito.
 
@@ -320,18 +178,6 @@ b.	Use el circuito equivalente Thévenin para determinar la corriente a través 
    
 ![image](https://user-images.githubusercontent.com/75383758/126418688-08c0266a-7002-4090-83d4-ecd3c8c3a942.png)
 
-26.	Repita el problema 25 para el circuito de la figura 9-82.
-
-![image](https://user-images.githubusercontent.com/75383758/126418706-62b6ab8d-287f-4649-ac26-6a12c8787c10.png)
-
-   Redibujando el circuito:
-   
-![image](https://user-images.githubusercontent.com/75383758/126418721-2ace8dbb-0271-44bd-80ce-9b569e25bffb.png)
-
-![image](https://user-images.githubusercontent.com/75383758/126418863-1d14eb8b-5bec-4ab7-ac75-619456a6e6e5.png)
-
-![image](https://user-images.githubusercontent.com/75383758/126418874-5f95374b-9938-44f1-980f-3acba632f4b0.png)
-
 27.	Repita el problema 25 para el circuito de la figura 9-83.
 
 ![image](https://user-images.githubusercontent.com/75383758/126418887-cb21c69d-00bd-4135-87ed-ae0f7a1bb2cd.png)
@@ -345,16 +191,6 @@ b.	Use el circuito equivalente Thévenin para determinar la corriente a través 
 ![image](https://user-images.githubusercontent.com/75383758/126418970-6e7be2f1-3c7b-4f65-8c95-89b2b0b5029b.png)
 
 ![image](https://user-images.githubusercontent.com/75383758/126418971-478e1e04-4884-405b-8b00-0438b113cfaf.png)
-
-28.	Repita el problema 25 para el circuito de la figura 9-84.
-
-![image](https://user-images.githubusercontent.com/75383758/126418980-c2ea2211-2540-449a-827c-7f69582e9e25.png)
-
-   Redibujando el circuito:
-   
-![image](https://user-images.githubusercontent.com/75383758/126419012-b1b42b3c-079f-4443-b017-d5cc4b9f75fc.png)
-
-![image](https://user-images.githubusercontent.com/75383758/126419023-99a3d95a-3e7c-46f5-a154-d5cf127d090e.png)
 
 29.	Vea el circuito de la figura 9-85:
 
@@ -374,22 +210,6 @@ b.	Use el circuito equivalente para determinar IL cuando RL = 20 Ω y cuando RL 
 
 ![image](https://user-images.githubusercontent.com/75383758/126419154-629ef898-bd6e-4882-93a9-d4875594735d.png)
 
-30. Vea el circuito de la figura 9-86:
-
-![image](https://user-images.githubusercontent.com/75383758/126419218-43893ad6-633f-4d30-a94e-09a96b8926a2.png)
-
-a. Encuentre el circuito equivalente de Norton externo a RL.
-
-![image](https://user-images.githubusercontent.com/75383758/126419244-58c91e30-40ef-48f0-855c-89fa99e2769b.png)
-
-![image](https://user-images.githubusercontent.com/75383758/126419240-9501047d-c2d2-4fb5-8190-f3678a2efb9a.png)
-
-![image](https://user-images.githubusercontent.com/75383758/126419258-3dc2ab84-10f6-44e8-b88c-c588c6819197.png)
-
-b. Use el circuito equivalente para determinar IL cuando RL = 10 kΩ y cuando RL = 20 kΩ.
-
-![image](https://user-images.githubusercontent.com/75383758/126419330-929078cb-c3e9-449c-b805-9c3044df252a.png)
-
 31. a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 9-87.
 
 ![image](https://user-images.githubusercontent.com/75383758/126419364-02e0f08f-768a-4a6f-82a9-ae80e9e3920c.png)
@@ -403,18 +223,6 @@ de Norton.
 
 ![image](https://user-images.githubusercontent.com/75383758/126419414-ce9157a1-b311-4326-beac-f2edd0ffc6d3.png)
 
-32. a. Encuentre el circuito equivalente de Norton externo a RL en el circuito de la figura 9-88.
-
-![image](https://user-images.githubusercontent.com/75383758/126419446-c7d7939b-cad3-4fcd-bbbc-5702650c24bc.png)
-
-![image](https://user-images.githubusercontent.com/75383758/126419545-eb0cb315-8c9d-47c5-9303-390c256a3615.png)
-
-![image](https://user-images.githubusercontent.com/75383758/126419554-230f1907-b361-4e00-940c-8315be666bec.png)
-
-b. Convierta el circuito equivalente de Thevenin en su equivalente
-de Norton.
-
-![image](https://user-images.githubusercontent.com/75383758/126419571-772597af-1eb0-4a83-b701-3b85250e1b8f.png)
 
 ### CAPITULO 10
 
