@@ -753,7 +753,9 @@ b. ¿Cuál es E al doble de la distancia?
 
 ## 6. BIBLIOGRAFÍA
 
+Robbins, A., & Miller, W. (2010). Análisis de circuitos eléctricos. Teoría y práctica [recurso electrónico]. Cengage Learning Editores, S.A. de C.V.
 
+Adán, L. (2021). CAPACITANCIA E INDUCTANCIA. prezi.com. Retrieved 21 July 2021, from https://prezi.com/cesdtyn0gcsp/capacitancia-e-inductancia/.
 
 
 
