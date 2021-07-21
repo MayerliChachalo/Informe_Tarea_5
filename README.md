@@ -12,6 +12,10 @@ Analizar las redes resistivas o capacitivas complejas en combinación de conexio
 
 ## 2. MARCO TEÓRICO 
 
+
+CAPÍTULO 9 
+![Stakeholder Map](https://user-images.githubusercontent.com/84594486/126417182-c7d1dd4f-c0b5-4ded-80e5-f23d47815970.jpg)
+
 CAPITULO 10 
 
 ![image](https://user-images.githubusercontent.com/84789076/126404978-169766a4-1774-46d1-be40-ebe7add43d0d.png)
