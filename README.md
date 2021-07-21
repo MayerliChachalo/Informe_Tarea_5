@@ -8,6 +8,7 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 
 Analizar las redes resistivas o capacitivas complejas en combinación de conexiones en serie y en paralelo, mediante métodos de análisis de corriente ,entendiendo los conceptos del comportamiento de la corriente, para entender las características de un circuito electrónico.
 
+**Objetivos específicos**
 
 ## 2. MARCO TEÓRICO 
 
@@ -747,6 +748,8 @@ b. ¿Cuál es E al doble de la distancia?
 </p>
 
 ## 4. VIDEO 
+
+https://youtu.be/LNXvaqWu7Uk
 
 ## 5. CONCLUSIONES 
 
