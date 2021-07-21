@@ -19,8 +19,105 @@ CAPITULO 10
 
 ### CAPITULO 9
 
+1.	Dado el circuito de la figura 9-75, use la superposición para calcular la corriente a través de cada uno de los resistores.
 
-   
+![image](https://user-images.githubusercontent.com/84789076/126412966-1c0ecb49-f394-4bae-a241-9fb6399d5155.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126413021-f7ff39b4-9c6a-4cbc-a664-fe865e478870.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126413058-308b5216-d16b-46fd-b253-d0edad81aac2.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126413082-530e534b-d36d-4d28-9898-f990ef820225.png)
+
+2.	Use la superposición para determinar la caída de voltaje en cada uno de los resistores del circuito de la figura 9-76.
+
+![image](https://user-images.githubusercontent.com/84789076/126413190-e8e4b709-d082-4b35-885d-6fdd8d3b269a.png)
+
+3.	Use la superposición para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77.
+
+![image](https://user-images.githubusercontent.com/84789076/126413246-789088c8-83b8-43ff-affb-5878b52875b9.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126413298-e0f11590-91d1-4980-81f8-74287b21c889.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126413359-0dbd0b7a-e806-402a-ac03-ca568eb461f7.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126413428-0d7be96c-c50b-4d92-9c92-d48614728156.png)
+
+4.	Use la superposición para encontrar la corriente a través del resistor de 480Ω en el circuito de la figura 9-78.
+
+![image](https://user-images.githubusercontent.com/84789076/126413455-a23f463e-7d65-427f-b251-1f12bb1f1df3.png)
+
+5.	 En el circuito de la figura 9-79, ¿cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea IL=5 mA, tal y como se muestra? Verifique los resultados mediante la superposición.
+
+![image](https://user-images.githubusercontent.com/84789076/126413522-a0072368-88ff-485b-8a3d-e25a66ae9d77.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126413551-23983a16-3d5f-4a3d-9e66-fbc4141b8afd.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126413577-18fde152-f48c-4f61-89fa-a92ee34b97f9.png)
+
+6.	Si el resistor de carga en el circuito de la figura 9-80 disipa 120 W, determine el valor de la fuente de voltaje desconocida. Verifique los resultados mediante la superposición.
+
+![image](https://user-images.githubusercontent.com/84789076/126413616-666dce86-5b2a-4574-aef3-4c35883bef47.png)
+
+7.	Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.
+
+![image](https://user-images.githubusercontent.com/84789076/126413736-e17fd167-790d-4460-ac4b-b5bd7a705ced.png)
+
+8.	Repita el problema 7 para el circuito de la figura 9-82.
+
+![image](https://user-images.githubusercontent.com/84789076/126413762-9a6bc9dd-2073-46e8-aaec-9ebb1268fb12.png)
+
+9.	Repita el problema 7 para el circuito de la figura 9-83.
+
+![image](https://user-images.githubusercontent.com/84789076/126413887-a603ef2b-c5f0-4994-9c2f-13594f8afe29.png)
+
+10.	Repita el problema 7 para el circuito de la figura 9-84.
+
+![image](https://user-images.githubusercontent.com/84789076/126413930-2d54f96f-5008-4d29-aa93-fa5b23ba792b.png)
+
+11.	Vea el circuito de la figura 9-85:
+
+a.	Encuentre el circuito equivalente de Thévenin externo a RL.
+
+b.	Use el circuito equivalente para determinar Vab cuando RL=20Ω  y cuando RL=50Ω.
+
+![image](https://user-images.githubusercontent.com/84789076/126414006-b8b7f378-795d-41fb-bc75-c919d2ad6831.png)
+
+12.	Vea el circuito de la figura 9-86:
+
+a.	Encuentre el circuito equivalente de Thévenin externo a RL.
+
+b.	Use el circuito equivalente para determinar Vab cuando RL=10 kΩ y cuando RL=20 kΩ.
+
+![image](https://user-images.githubusercontent.com/84789076/126414096-3aee90df-123d-4a64-987d-b7fcf76b789b.png)
+
+13.	Vea el circuito de la figura 9-87:
+
+a.	Encuentre el circuito equivalente de Thévenin externo a las terminales indicadas.
+
+b.	Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas indicadas.
+
+![image](https://user-images.githubusercontent.com/84789076/126414201-c7590b94-ec9a-40f1-9936-60f300eb72ce.png)
+
+14.	Vea el circuito de la figura 9-88:
+
+![image](https://user-images.githubusercontent.com/84789076/126414234-d16e0aff-9026-4e75-aaf4-6e5b4956a662.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126414272-90ef2c61-858a-4fb6-8657-162a4515b5da.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126414307-24dbb3e3-4a91-4716-b81f-68926f4e9fbf.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126414349-0c502225-ad3f-4d50-abf1-d9696b7815f6.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126414417-b65a1a41-9bd0-416a-974c-e893550e6764.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126414482-69e0d693-3a07-43d6-861e-ae358e520cfe.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126414556-c21f8208-a6b7-43c4-9166-5c2cf7031633.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126414596-00203d25-1ddc-4163-b383-5e6abbe59916.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126414632-6fbabef8-8ff2-4f11-9c22-4be68e875ac6.png)
 
 ### CAPITULO 10
 
