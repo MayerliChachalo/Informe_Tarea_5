@@ -277,7 +277,7 @@ b. ¿Cuál es E al doble de la distancia?
 
    -  Existen varios capacitores cada uno hecho de diferentes materiales algunos más grandes que otros para almacenar mayor carga eléctrica, su capacitancia dependerá del dieléctrico que son materiales que no conducen la electricidad, por lo que pueden ser utilizados como aislantes y cada uno de estos tiene su constante dieléctrica.
    -  Se conoció también que la capacitancia es directamente proporcional a la carga esto quiere decir que entre más carga almacene un capacitor mayor será su capacitancia.
-   -  
+   -  Comprendimos la definición de lo que es una ruptura del dieléctrico, esto significa que cuando el voltaje incrementa más allá del valor máximo especificado en el capacitor este hará que los electrones sean sacados de su órbita, además tener en cuenta que esto no solo sucede en capacitores sino en cualquier aparato eléctrico.
 
 ## 6. BIBLIOGRAFÍA
 
