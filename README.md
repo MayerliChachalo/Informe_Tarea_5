@@ -275,6 +275,8 @@ b. ¿Cuál es E al doble de la distancia?
 
 ## 5. CONCLUSIONES 
 
+   -  Existen varios capacitores cada uno hecho de diferentes materiales algunos más grandes que otros para almacenar mayor carga eléctrica, su capacitancia dependerá del dieléctrico que son materiales que no conducen la electricidad, por lo que pueden ser utilizados como aislantes y cada uno de estos tiene su constante dieléctrica.
+   -  Se conoció también que la capacitancia es directamente proporcional a la carga esto quiere decir que entre más carga almacene un capacitor mayor será su capacitancia.
    -  
 
 ## 6. BIBLIOGRAFÍA
