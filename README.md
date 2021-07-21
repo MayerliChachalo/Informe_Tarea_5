@@ -35,10 +35,6 @@ CAPITULO 10
 
 ![image](https://user-images.githubusercontent.com/84789076/126413082-530e534b-d36d-4d28-9898-f990ef820225.png)
 
-2.	Use la superposición para determinar la caída de voltaje en cada uno de los resistores del circuito de la figura 9-76.
-
-![image](https://user-images.githubusercontent.com/84789076/126413190-e8e4b709-d082-4b35-885d-6fdd8d3b269a.png)
-
 3.	Use la superposición para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77.
 
 ![image](https://user-images.githubusercontent.com/84789076/126413246-789088c8-83b8-43ff-affb-5878b52875b9.png)
@@ -49,10 +45,6 @@ CAPITULO 10
 
 ![image](https://user-images.githubusercontent.com/84789076/126413428-0d7be96c-c50b-4d92-9c92-d48614728156.png)
 
-4.	Use la superposición para encontrar la corriente a través del resistor de 480Ω en el circuito de la figura 9-78.
-
-![image](https://user-images.githubusercontent.com/84789076/126413455-a23f463e-7d65-427f-b251-1f12bb1f1df3.png)
-
 5.	 En el circuito de la figura 9-79, ¿cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea IL=5 mA, tal y como se muestra? Verifique los resultados mediante la superposición.
 
 ![image](https://user-images.githubusercontent.com/84789076/126413522-a0072368-88ff-485b-8a3d-e25a66ae9d77.png)
@@ -61,25 +53,13 @@ CAPITULO 10
 
 ![image](https://user-images.githubusercontent.com/84789076/126413577-18fde152-f48c-4f61-89fa-a92ee34b97f9.png)
 
-6.	Si el resistor de carga en el circuito de la figura 9-80 disipa 120 W, determine el valor de la fuente de voltaje desconocida. Verifique los resultados mediante la superposición.
-
-![image](https://user-images.githubusercontent.com/84789076/126413616-666dce86-5b2a-4574-aef3-4c35883bef47.png)
-
 7.	Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.
 
 ![image](https://user-images.githubusercontent.com/84789076/126413736-e17fd167-790d-4460-ac4b-b5bd7a705ced.png)
 
-8.	Repita el problema 7 para el circuito de la figura 9-82.
-
-![image](https://user-images.githubusercontent.com/84789076/126413762-9a6bc9dd-2073-46e8-aaec-9ebb1268fb12.png)
-
 9.	Repita el problema 7 para el circuito de la figura 9-83.
 
 ![image](https://user-images.githubusercontent.com/84789076/126413887-a603ef2b-c5f0-4994-9c2f-13594f8afe29.png)
-
-10.	Repita el problema 7 para el circuito de la figura 9-84.
-
-![image](https://user-images.githubusercontent.com/84789076/126413930-2d54f96f-5008-4d29-aa93-fa5b23ba792b.png)
 
 11.	Vea el circuito de la figura 9-85:
 
@@ -88,14 +68,6 @@ a.	Encuentre el circuito equivalente de Thévenin externo a RL.
 b.	Use el circuito equivalente para determinar Vab cuando RL=20Ω  y cuando RL=50Ω.
 
 ![image](https://user-images.githubusercontent.com/84789076/126414006-b8b7f378-795d-41fb-bc75-c919d2ad6831.png)
-
-12.	Vea el circuito de la figura 9-86:
-
-a.	Encuentre el circuito equivalente de Thévenin externo a RL.
-
-b.	Use el circuito equivalente para determinar Vab cuando RL=10 kΩ y cuando RL=20 kΩ.
-
-![image](https://user-images.githubusercontent.com/84789076/126414096-3aee90df-123d-4a64-987d-b7fcf76b789b.png)
 
 13.	Vea el circuito de la figura 9-87:
 
