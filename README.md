@@ -8,6 +8,8 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 
 Analizar las redes resistivas o capacitivas complejas en combinación de conexiones en serie y en paralelo, mediante métodos de análisis de corriente ,entendiendo los conceptos del comportamiento de la corriente, para entender las características de un circuito electrónico.
 
+**Objetivos específicos**
+
 ## 2. MARCO TEÓRICO 
 
 
@@ -33,6 +35,10 @@ CAPITULO 10
 
 ![image](https://user-images.githubusercontent.com/84789076/126413082-530e534b-d36d-4d28-9898-f990ef820225.png)
 
+2.	Use la superposición para determinar la caída de voltaje en cada uno de los resistores del circuito de la figura 9-76.
+
+![image](https://user-images.githubusercontent.com/84789076/126413190-e8e4b709-d082-4b35-885d-6fdd8d3b269a.png)
+
 3.	Use la superposición para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77.
 
 ![image](https://user-images.githubusercontent.com/84789076/126413246-789088c8-83b8-43ff-affb-5878b52875b9.png)
@@ -43,6 +49,10 @@ CAPITULO 10
 
 ![image](https://user-images.githubusercontent.com/84789076/126413428-0d7be96c-c50b-4d92-9c92-d48614728156.png)
 
+4.	Use la superposición para encontrar la corriente a través del resistor de 480Ω en el circuito de la figura 9-78.
+
+![image](https://user-images.githubusercontent.com/84789076/126413455-a23f463e-7d65-427f-b251-1f12bb1f1df3.png)
+
 5.	 En el circuito de la figura 9-79, ¿cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea IL=5 mA, tal y como se muestra? Verifique los resultados mediante la superposición.
 
 ![image](https://user-images.githubusercontent.com/84789076/126413522-a0072368-88ff-485b-8a3d-e25a66ae9d77.png)
@@ -51,13 +61,25 @@ CAPITULO 10
 
 ![image](https://user-images.githubusercontent.com/84789076/126413577-18fde152-f48c-4f61-89fa-a92ee34b97f9.png)
 
+6.	Si el resistor de carga en el circuito de la figura 9-80 disipa 120 W, determine el valor de la fuente de voltaje desconocida. Verifique los resultados mediante la superposición.
+
+![image](https://user-images.githubusercontent.com/84789076/126413616-666dce86-5b2a-4574-aef3-4c35883bef47.png)
+
 7.	Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.
 
 ![image](https://user-images.githubusercontent.com/84789076/126413736-e17fd167-790d-4460-ac4b-b5bd7a705ced.png)
 
+8.	Repita el problema 7 para el circuito de la figura 9-82.
+
+![image](https://user-images.githubusercontent.com/84789076/126413762-9a6bc9dd-2073-46e8-aaec-9ebb1268fb12.png)
+
 9.	Repita el problema 7 para el circuito de la figura 9-83.
 
 ![image](https://user-images.githubusercontent.com/84789076/126413887-a603ef2b-c5f0-4994-9c2f-13594f8afe29.png)
+
+10.	Repita el problema 7 para el circuito de la figura 9-84.
+
+![image](https://user-images.githubusercontent.com/84789076/126413930-2d54f96f-5008-4d29-aa93-fa5b23ba792b.png)
 
 11.	Vea el circuito de la figura 9-85:
 
@@ -66,6 +88,14 @@ a.	Encuentre el circuito equivalente de Thévenin externo a RL.
 b.	Use el circuito equivalente para determinar Vab cuando RL=20Ω  y cuando RL=50Ω.
 
 ![image](https://user-images.githubusercontent.com/84789076/126414006-b8b7f378-795d-41fb-bc75-c919d2ad6831.png)
+
+12.	Vea el circuito de la figura 9-86:
+
+a.	Encuentre el circuito equivalente de Thévenin externo a RL.
+
+b.	Use el circuito equivalente para determinar Vab cuando RL=10 kΩ y cuando RL=20 kΩ.
+
+![image](https://user-images.githubusercontent.com/84789076/126414096-3aee90df-123d-4a64-987d-b7fcf76b789b.png)
 
 13.	Vea el circuito de la figura 9-87:
 
@@ -498,6 +528,8 @@ b. ¿Cuál es E al doble de la distancia?
 
 18. Determine a qué voltaje un capacitor de 200 nF con dieléctrico de mylar con un área de placa de 0.625 m^2 sufrirá una ruptura. 
 
+![image](https://user-images.githubusercontent.com/85126275/126488594-45e39375-cc28-4677-8303-f4bd3a04363b.png)
+![image](https://user-images.githubusercontent.com/85126275/126488828-b0dfdf7e-9041-456f-9d8f-af55b355a44f.png)
 
 
 19. La ﬁgura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un par de puntos aﬁlados. Todos los espaciamientos miden lo mismo. Conforme el voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?
@@ -512,13 +544,18 @@ b. ¿Cuál es E al doble de la distancia?
 
 20. Si se continúa aumentando el voltaje de la fuente de la ﬁgura 10-32 (a), (b) y (c) después de la ruptura del espaciamiento, ¿también habrá ruptura en el segundo de ellos? Justiﬁque su respuesta.
 
-         Si continuamos aumentando el voltaje después que haya existido ruptura en el espaciamiento de cada uno de los circuitos, no existiría una ruptura en los siguientes  espaciamientos ya que la fuente de voltaje sólo aumentará hasta romper uno de los espaciamientos además de que la resistencia tiene una alta resistencia para limitar la corriente después de la ruptura.
+ Si continuamos aumentando el voltaje después que haya existido ruptura en el espaciamiento de cada uno de los circuitos, no existiría una ruptura en los siguientes  espaciamientos ya que la fuente de voltaje sólo aumentará hasta romper uno de los espaciamientos además de que la resistencia tiene una alta resistencia para limitar la corriente después de la ruptura.
          
 **10-5 Efectos no ideales**
 
 21. Un capacitor de 25 µF tiene un coeficiente de temperatura negativo de 175 ppm/°C. ¿Por cuánto y en qué dirección podrá variar si la temperatura aumenta a 50°C? ¿Cuál será el nuevo valor?
 
+![image](https://user-images.githubusercontent.com/85126275/126489084-74c6c4cc-4bd7-4e43-84b7-ead20abfd58f.png)
+
 22. Si un capacitor de 4.7  cambia a 4.8 µF cuando la temperatura aumenta a 40°C, ¿Cuál es el coeficiente de temperatura?
+
+![image](https://user-images.githubusercontent.com/85126275/126489580-778668f2-074c-45b3-8734-f3e664db7b80.png)
+
 
 **10-7 Capacitores en paralelo y en serie**
 
