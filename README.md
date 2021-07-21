@@ -13,6 +13,10 @@ Analizar las redes resistivas o capacitivas complejas en combinación de conexio
 
 Analizar la distribucion serie-paralelo de capacitores en un circuito.
 
+Reconocer que la resistia, inductancia y capacitancia son las tres propiedades básica de los circuitos eléctricos y electrónicos.
+
+Aplicar la definición de divisor de voltaje en capacitores en serie. 
+
 ## 2. MARCO TEÓRICO 
 
 
