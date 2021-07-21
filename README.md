@@ -13,10 +13,6 @@ Analizar las redes resistivas o capacitivas complejas en combinación de conexio
 
 Analizar la distribucion serie-paralelo de capacitores en un circuito.
 
-Reconocer que la resistencia, inductancia y capacitancia son las tres propiedades básica de los circuitos eléctricos y electrónicos.
-
-Aplicar la definición de divisor de voltaje en capacitores en serie. 
-
 ## 2. MARCO TEÓRICO 
 
 
@@ -227,6 +223,224 @@ de Norton.
 
 ![image](https://user-images.githubusercontent.com/75383758/126419414-ce9157a1-b311-4326-beac-f2edd0ffc6d3.png)
 
+32. 
+a. Encuentre el circuito equivalente de Norton externo a RL en el circuito de
+la figura 9-88.
+
+![image](https://user-images.githubusercontent.com/85126275/126527804-c14c74f6-8324-4f88-9a60-32118c68420f.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126527822-5e89410c-1772-4512-ab5e-670ff5320d21.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126527903-3e34ef56-c090-4f7c-8bf7-ef0ed58e5b02.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126527939-9b858317-a805-4dd5-af9e-151cf96c8220.png)
+
+b. Convierta el circuito equivalente de Thevenin en su equivalente
+de Norton.
+
+![image](https://user-images.githubusercontent.com/85126275/126527999-8d109d6d-717d-4227-aa2b-02ef4b5470c8.png)
+
+33. Repita el problema 31 para el circuito de la figura 9-91.
+
+![image](https://user-images.githubusercontent.com/85126275/126528039-11bb8892-6535-4972-8f09-754cb047a905.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126528056-10348b27-b73c-468c-b5e3-f8af9e9fddbb.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126528078-18867139-3b6e-4a34-a1f7-497c5232fb14.png)
+
+b. Convierta el circuito equivalente de Thevenin en su equivalente
+de Norton.
+
+![image](https://user-images.githubusercontent.com/85126275/126528123-dd59e0f8-fd55-4b21-a793-a65ee299ae7d.png)
+
+34. Repita el problema 31 para el circuito de la figura 9-92.
+
+![image](https://user-images.githubusercontent.com/85126275/126528146-59191195-7bc6-433f-8e8b-f242242f9ea1.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126528195-bdacbf91-94de-43f1-b0ef-86d1e8a8666d.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126528219-66da8a31-3617-493d-8de9-b7f78e764c1b.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126528259-628bca05-e9ce-4177-ae82-27b3f1bdce29.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126528290-3a26f3a6-dc53-4d16-9c86-b6894270670b.png)
+
+b. Convierta el circuito equivalente de Thevenin en su equivalente de Norton
+
+![image](https://user-images.githubusercontent.com/85126275/126528346-237cd4f6-0220-4c69-95c8-3c1a6fcf25ce.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126528377-8c6d7ca2-ae2d-4f3d-b112-65d606b98476.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126528392-af129232-c961-44d6-9306-717619a7d40f.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126528433-6ec963dc-6913-4fde-aa43-dcfbd71b7866.png)
+
+b. Convierta el circuito equivalente de Thevenin en su equivalente
+de Norton.
+
+![image](https://user-images.githubusercontent.com/85126275/126528489-3f434e61-2a4c-42b8-999b-d94911a559d4.png)
+
+36. Repita el problema 31 para el circuito de la figura 9-96.
+
+![image](https://user-images.githubusercontent.com/85126275/126528519-387c5ede-0c58-4b03-90ba-03d29b54eab1.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126528527-ee6d9d08-8d25-4d8f-afc2-8eb6a9b7254a.png)
+
+R_N=10Ω+30Ω=40Ω
+
+37. a. Para el circuito de la figura 9-91 determine el valor de RL para que se suministre
+la maxima potencia a la carga.
+
+![image](https://user-images.githubusercontent.com/85126275/126528575-c1cd5e8e-6e77-44c7-a189-26658a5551cd.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126528627-02bf2e18-b01f-4757-9490-b9e1f8bf9661.png)
+
+b. Calcule el valor de la maxima potencia que puede ser suministrada a la
+carga
+
+![image](https://user-images.githubusercontent.com/85126275/126528679-2bfeefe8-2942-4b59-b287-c2a1aa0df349.png)
+
+c. Dibuje la curva de potencia contra resistencia cuando RL se ajusta de 0 _ a
+50 k_ en incrementos de 5 k_.
+
+![image](https://user-images.githubusercontent.com/85126275/126528701-17c39101-1de3-4345-8507-3c6790960d16.png)
+
+38. Repita el problema 37 para el circuito de la figura 9-94.
+
+![image](https://user-images.githubusercontent.com/85126275/126528744-ecdb1554-ab83-4598-b743-a230508e5583.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126528753-4509417a-5c1c-4437-82bd-f9d32e58c362.png)
+
+a. Para el circuito de la figura 9-94 determine el valor de RL para que se suministre
+la maxima potencia a la carga.
+
+![image](https://user-images.githubusercontent.com/85126275/126528815-5e20f580-9935-4444-baae-857d4adef44c.png)
+
+b. Calcule el valor de la maxima potencia que puede ser suministrada a la
+carga.
+
+![image](https://user-images.githubusercontent.com/85126275/126528854-f167215b-2ed3-4b6a-bf4a-b5f870b18a67.png)
+
+c. Dibuje la curva de potencia contra resistencia cuando RL se ajusta de 0 _ a
+50 k_ en incrementos de 5 k_.
+
+![image](https://user-images.githubusercontent.com/85126275/126528877-79d8a3e5-c887-499d-ae56-59829a1ba80a.png)
+
+39. a. Para el circuito de la figura 9-99 encuentre el valor de R de manera que
+RL _ RTh.
+
+![image](https://user-images.githubusercontent.com/85126275/126528904-fdab4c65-7031-47a3-b086-42b691911300.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126528928-3cfbdf4c-be5c-4e08-a003-35c119ddcd22.png)
+
+b. Calcule la maxima potencia disipada por RL.
+
+![image](https://user-images.githubusercontent.com/85126275/126528999-9e727d27-ade9-467e-a617-36d46bc934d6.png)
+
+40. Repita el problema 39 para el circuito de la figura 9-100.
+
+![image](https://user-images.githubusercontent.com/85126275/126529031-9c0dd3b8-aebe-4b98-94fd-f9489a02aff1.png)
+
+a. Para el circuito de la figura 9-100 encuentre el valor de R de manera que
+RL _ RTh.
+
+![image](https://user-images.githubusercontent.com/85126275/126529094-dacbc571-6413-49cf-b242-cd75e081c408.png)
+
+b. Calcule la maxima potencia disipada por RL.
+
+![image](https://user-images.githubusercontent.com/85126275/126529157-0f8b3350-df70-4168-a72f-b75f56d8f0ba.png)
+
+41. a. Para el circuito de la figura 9-101 determine los valores de R1 y R2 de manera
+que la carga de 32 k_ reciba la maxima potencia.
+
+![image](https://user-images.githubusercontent.com/85126275/126529184-fe184f1a-9a09-405c-b90a-eac50ee6e104.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126529253-8788f601-6917-4828-890b-bb1d8c434776.png)
+
+b. Calcule la maxima potencia suministrada por RL.
+
+![image](https://user-images.githubusercontent.com/85126275/126529296-d72fa824-3a3c-43ba-aa9a-1458161c62d3.png)
+
+42. Repita el problema 41 si el resistor de carga tiene un valor de RL _ 25 k_.
+
+![image](https://user-images.githubusercontent.com/85126275/126529326-1244945b-5869-421e-b82e-7874ca7ede92.png)
+
+a. Para el circuito de la figura 9-101 determine los valores de R1 y R2 de manera
+que la carga de 32 k_ reciba la maxima potencia.
+
+![image](https://user-images.githubusercontent.com/85126275/126529385-87f1587c-34c3-456b-a240-e2723fad01f5.png)
+
+b. Calcule la maxima potencia suministrada por RL.
+
+![image](https://user-images.githubusercontent.com/85126275/126529449-f4caf39d-0b57-41ca-b51f-1407dcfd38bc.png)
+
+43. Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de voltaje y un resistor en serie de 50 ohm, determine la magnitud y polaridad de la fuente de voltaje resultante.
+
+![image](https://user-images.githubusercontent.com/85126275/126529467-23d2fdfc-a897-44b1-b4ea-4574a45c4265.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126529499-e7d503ca-0507-40dd-90a2-15095ca70ce4.png)
+
+44. Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de corriente y un resistor en paralelo de 200 ohm, determine la magnitud y dirección de la fuente de corriente resultante.
+
+![image](https://user-images.githubusercontent.com/85126275/126529538-71d02b4e-4e38-4b4c-b744-9e22dc962989.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126529597-a17d6538-1cfb-4ee7-88a9-0396ef297207.png)
+
+45. Use el Teorema de Millman para encontrar la corriente y la potencia disipada por RL en el circuito de la figura 9-103.
+
+![image](https://user-images.githubusercontent.com/85126275/126529692-08e0642c-36ec-4d16-bd18-993c9e67d2c7.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126529875-8b9adf0e-4ef9-4ce1-9562-ff622d7fa1be.png)
+
+46. Repita el problema 45 para el circuito de la figura 9-104
+
+![image](https://user-images.githubusercontent.com/85126275/126529910-d9666e08-6fe8-43f1-825d-c62beb3ea445.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126530004-465421e2-c3db-4f65-b46d-89d2eac5fb71.png)
+
+47. Repita el problema 45 para el circuito de la figura 9-105
+
+![image](https://user-images.githubusercontent.com/85126275/126530031-a710f0ed-4bc2-4769-8a49-8300ec490509.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126530092-cf0fe62f-22c6-488f-9932-d07cc9f28d16.png)
+
+48. Repita el problema 45 para el circuito de la figura 9-106.
+
+![image](https://user-images.githubusercontent.com/85126275/126530144-8ac43a64-bc05-415e-944d-aa8a43e14d97.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126530200-38f9eb02-50b6-4fa2-9e3e-eade41190d6d.png)
+
+49. a. Determine la corriente I en el circuito de la figura 9-107. b. Demuestre que la reciprocidad se aplica en el circuito dado.
+
+![image](https://user-images.githubusercontent.com/85126275/126530231-5f845a72-e8c7-4537-88d9-bd1bb6170300.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126530282-0101e24e-b727-46d9-807f-5e25a3539efb.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126530360-7b679a3d-14dc-4806-b339-a7baa4f862cc.png)
+
+50. Repita el problema 49 para el circuito de la figura 9-108.
+
+![image](https://user-images.githubusercontent.com/85126275/126530400-37800ffb-9756-4705-a46a-e7a57129e0a8.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126530457-8bea7b69-b8a1-433e-a0d8-3588a15ffc68.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126530486-7be47b72-1e6a-4f92-a97a-e1eb428435a5.png)
+
+51. a. Determine el voltaje V en el circuito de la figura 9-109. b. Demuestre que la reciprocidad se aplica en el circuito dado.
+
+![image](https://user-images.githubusercontent.com/85126275/126530522-c4104efd-5b9d-4050-93e7-c34d8110fd12.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126530578-4f3deb74-2f55-4610-96eb-50192cdd25e0.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126530611-6151a26a-3bd1-4655-9bdb-942444b560bf.png)
+
+52. Repita el problema 51 para el circuito de la figura 9-110.
+
+![image](https://user-images.githubusercontent.com/85126275/126530631-366f3d48-b35e-44b8-9dab-c47892787f96.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126530706-8db22d8d-e973-4f1c-90a6-b38d7ef840dd.png)
+
+![image](https://user-images.githubusercontent.com/85126275/126530739-58104dc1-1f3c-43dd-814b-9f4f7bf7f3e7.png)
 
 ### CAPITULO 10
 
