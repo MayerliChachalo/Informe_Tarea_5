@@ -10,7 +10,6 @@ Analizar las redes resistivas o capacitivas complejas en combinación de conexio
 
 **Objetivos específicos**
 
-
 Analizar la distribucion serie-paralelo de capacitores en un circuito.
 
 ## 2. MARCO TEÓRICO 
@@ -785,7 +784,7 @@ b. ¿Cuál es E al doble de la distancia?
 
 ## 4. VIDEO 
 
-https://youtu.be/LNXvaqWu7Uk
+https://youtu.be/KXM2uUw5kT4
 
 ## 5. CONCLUSIONES 
 
